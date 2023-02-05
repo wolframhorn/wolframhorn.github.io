@@ -20,9 +20,6 @@ jobs:
         with:
           hugo-version: '0.99.1'
 
-      - name: Build
-        run: hugo --minify
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
