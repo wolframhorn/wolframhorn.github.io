@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+#google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=Merriweather"
+google_fonts = "family=Bitter:wght@100&family=Crete+Round&family=Crimson+Text&family=EB+Garamond&family=Merriweather:wght@300&family=Source+Serif+Pro:wght@200&family=Tiro+Kannada"
+
+# Font families
+heading_font = "Merriweather"
+body_font = "Crete+Round"
+nav_font = "Merriweather"
+mono_font = "Crete+Round"
