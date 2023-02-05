@@ -71,15 +71,6 @@ To help us develop this template and software sustainably under the MIT license,
 
 ### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
-## You're looking at a Wowchemy _widget_
-
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [_Blank_ widget](https://wowchemy.com/docs/widget/).
-
-Backgrounds can be applied to any section. Here, the _background_ option is set give a _color gradient_.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}}
 
 ## Get inspired
 
