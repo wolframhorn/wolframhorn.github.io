@@ -1,16 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Wolfram Horn</title>
+    <title>Categories on Wolfram Horn</title>
     <link>https://wolframhorn.github.io/categories/</link>
-      <atom:link href="https://wolframhorn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://wolframhorn.github.io/media/icon_hu8a73422b04ea72f695b0c93be2132dbc_138495_512x512_fill_lanczos_center_3.png</url>
-      <title>Categories</title>
-      <link>https://wolframhorn.github.io/categories/</link>
-    </image>
+    <description>Recent content in Categories on Wolfram Horn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wolframhorn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>https://wolframhorn.github.io/category/demo/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wolframhorn.github.io/category/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教程</title>
+      <link>https://wolframhorn.github.io/category/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wolframhorn.github.io/category/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://wolframhorn.github.io/category/r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://wolframhorn.github.io/category/r/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
