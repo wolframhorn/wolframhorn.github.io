@@ -23,8 +23,8 @@ removePathAccents: true
 module:
   imports:
     - path: ../assets/
-    - path: wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
 ## ADVANCED
