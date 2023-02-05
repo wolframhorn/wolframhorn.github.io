@@ -9587,13 +9587,13 @@ html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
 
 a {
-  color: #23373B; }
+  color: #37585c; }
 
 .navbar-light .navbar-brand {
-  color: #23373B; }
+  color: #37585c; }
 
 .nav-link.active {
-  color: #23373B; }
+  color: #37585c; }
 
 /*<p class="paper-button bg-rollover"></p>*/
 /*
@@ -9629,7 +9629,7 @@ a {
   width: 4.3em;
   height: 2em;
   line-height: 1.9em;
-  border: 1px solid #23373B;
+  border: 1px solid #37585c;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-right: 0.3em; }
@@ -9639,13 +9639,13 @@ a {
   background-color: white; }
 
 .bg-rollover:hover {
-  background-color: #23373B !important;
+  background-color: #37585c !important;
   color: #ffffff !important;
   text-decoration: none;
   transition: background-color 0.5s ease, color 0.5s ease; }
 
 .header--fixed {
-  border-top: 0.2em solid #23373B; }
+  border-top: 0.2em solid #37585c; }
 
 .home-section {
   min-height: calc(100vh - 70px); }
