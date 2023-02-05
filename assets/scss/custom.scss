@@ -1,0 +1,105 @@
+/*<button id="specific-paper-button"></button>*/
+#specific-paper-button {
+  color: red;
+}
+
+$main-color-red: #851307;
+$main-color-green: #1D5C34;
+$main-color-dark-green: #37585C;
+$main-color-dark-green2: #186a8e;
+$background-lightgray: #f7f7f7;
+$main-color-highlight-turq: #4DBDC9;
+$main-color-highlight-orange: #FA8D11;
+$main-color-highlight-orangedark: #CC7000;
+$main-color-highlight-sand: #857146; 
+$main-color-highlight-turqdark: #156760;
+$main-color-highlight-metropolis: #23373B;
+$main-color-highlight-orangemetropolis: #EB811B;
+
+$main-color: $main-color-highlight-metropolis;
+
+html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: $main-color;
+}
+
+.navbar-light .navbar-brand {
+  color: $main-color;
+}
+
+.nav-link.active {
+  color: $main-color;
+}
+
+/*<p class="paper-button bg-rollover"></p>*/
+/*
+.paper-button {
+  background-color: $background-lightgray;
+  font-size: medium;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  border-radius: 2em;
+  margin: 0px auto;
+  text-align: center;
+  display: inline-block;
+  width: 4.5em; 
+  height: 2em; 
+  line-height: 2em;
+  border: 1px solid $main-color;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 0.3em;
+}
+*/
+.paper-button {
+  background-color: $background-lightgray;
+  font-size: small;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  border-radius: 2.5em;
+  margin: 0px auto;
+  text-align: center;
+  display: inline-block;
+  width: 4.3em; 
+  height: 2em; 
+  line-height: 1.9em;
+  border: 1px solid $main-color;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 0.3em;
+}
+
+.download-button {
+  width: 9.5em; 
+  background-color: white
+}
+
+.bg-rollover:hover{
+  background-color: $main-color !important;
+  color: #ffffff !important;
+  text-decoration: none;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.header--fixed {
+  border-top: .2em solid $main-color;
+}
+
+.home-section {
+  min-height: calc(100vh - 70px);
+}
+
+.avatar-circle {
+  box-shadow: 0px 0px 20px gray;
+  border: 5px solid white;
+}
+
+a:hover {
+  transition: color .5s ease;
+  color: $main-color-highlight-orangemetropolis;
+}

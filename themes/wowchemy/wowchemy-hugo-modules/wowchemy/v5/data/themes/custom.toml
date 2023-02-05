@@ -1,0 +1,25 @@
+# Theme metadata
+name = "Custom"
+
+[light]
+  # Primary
+  #primary = "rgb(117,116,116)"
+  # primary_red = "rgb(133,19,7)"
+  # primary_green = "#1D5C34"
+  #primary = "#851307"
+  primary = "#23373B"
+
+  # Menu
+  menu_primary = "#fff" # Material 500
+  #menu_text = "rgb(143,142,141)"
+  menu_text = "#23373B"
+  # menu_text_active_red = "rgb(133,19,7)" 
+  # menu_title_red = "rgb(133,19,7)"
+  # menu_title_red = "rgb(143,142,141)"
+  menu_text_active = "#EB811B"
+  menu_title = "#23373B"
+  #menu_title = "#851307"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"

@@ -1,0 +1,32 @@
+.some-other-class {
+  color: red;
+}
+
+.bg-rollover:hover{
+    background-color: red !important;
+    border-color:#1565c0;
+    color: #ffffff !important;
+}
+
+.wx{
+  width: 250px;
+}
+
+/*<button id="specific-paper-button"></button>*/
+#specific-paper-button {
+  color: red;
+}
+
+/*<p class="paper-button bg-rollover"></p>*/
+.paper-button {
+  background-color: rgb(133,19,7);
+  font-family: Lato, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  padding: 1px 1px;
+  color: #ffffff;
+  border-radius: 4px;
+  margin: 0px auto;
+  text-align: center;
+  display: inline-block;
+}
