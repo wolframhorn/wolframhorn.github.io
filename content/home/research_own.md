@@ -27,7 +27,7 @@ weight = 70
 <hr style="width:100%;text-align:left;margin-left:0">
 
 <h3> <span style="color:#EB811B;font-size:1.1em">Working Papers:</span> </h3>
-<ul><li> <i class="far fa-file-alt"></i> <a href="https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194"> <strong> Monetary Policy and Mergers and Acquisitions </strong> </a> <br>
+<ul><li> <i class="far fa-file-alt"></i> <a href="/media/papers/MPMA_FischerHorn.pdf"> <strong> Monetary Policy and Mergers and Acquisitions </strong> </a> <br>
 (with <a href=https://sites.google.com/view/johannesjfischer "newtab">Johannes Fischer</a>) <br>
 <small>
 <a rel="noopener"
@@ -35,7 +35,8 @@ weight = 70
    class="bg-rollover paper-button"
    href="https://cadmus.eui.eu">
 <span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
-</a></small></li></ul>
+</a>
+</small></li></ul>
 <br>
  <hr style="width:100%;text-align:left;margin-left:0">
 
