@@ -22,7 +22,7 @@ author: admin
 design:
   background:
     image: florence_3.png
-    image_size: cover
+    image_size: contain
     image_parallax: false
     image_position: bottom
     

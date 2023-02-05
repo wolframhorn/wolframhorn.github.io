@@ -71,6 +71,8 @@ email: "carl-wolfram.horn@eui.eu"
 highlight_name: false
 ---
 
+# TODO Change href="" to CV pdf in static/media/ (Static nicht mit in den Link hier)
+# TODO Change download="" auf den Namen der PDF 
 <span style="color:#23373B;font-size:1.1em">**Hi, I am Wolfram Horn. Welcome to my homepage!**</span>
 <p>I am a Ph.D. Candidate in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy. My supervisors are Ramon Marimon and Russell Cooper.</p>
 <a class="bg-rollover paper-button download-button" 
