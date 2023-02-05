@@ -21,10 +21,10 @@ author: admin
 
 design:
   background:
-    image: florence_3.png
+    image: PicFlorence13.jpg
     image_size: cover
     image_parallax: true
-    image_position: bottom
+    image_position: top
     
 
 # Section design
