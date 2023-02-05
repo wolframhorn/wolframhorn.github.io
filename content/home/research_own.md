@@ -41,10 +41,10 @@ weight = 70
  <hr style="width:100%;text-align:left;margin-left:0">
 
 <h3> <span style="color:#EB811B;font-size:1.1em">Work in Progress</span> </h3>
-<ul><li><p><strong>Quantitative Easing and Sovereign Bond Supply</strong> <br>
+<ul><li><p> <span style="color:#37585c"><strong>Quantitative Easing and Sovereign Bond Supply</strong></span> <br>
 (with <a href=https://sites.google.com/site/corradinste/ "newtab">Stefano Corradin</a>)</p></li></ul>
  
-<ul><li><p><strong> Covid-19 and Productivity in Europe: A Responsiveness Perspective </strong> <br>
+<ul><li><p><span style="color:#37585c"><strong> Covid-19 and Productivity in Europe: A Responsiveness Perspective </strong> </span> <br>
 (with <a href=https://leonardoindraccolo.netlify.app/ "newtab">Leonardo Indraccolo</a> and <a href=https://sites.google.com/site/coopereconomics/home "newtab">Russell Cooper</a>)<p></li></ul>
 <br>
  <hr style="width:100%;text-align:left;margin-left:0">
