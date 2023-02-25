@@ -10,7 +10,6 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 70
 +++
-# style="color:#EB811B;font-size:1em"
 
 <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css>
 <h3> <span style="font-size:1em">Published Papers:</span> </h3>
@@ -39,7 +38,6 @@ weight = 70
 </a>
 </small></li></ul>
 <br>
-
 <ul><li> <i class="far fa-file-alt"></i> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4359120"> <strong> Covid and Productivity in Europe: A Responsiveness Perspective </strong> </a> <br>
 (with <a href=https://leonardoindraccolo.netlify.app/ "newtab">Leonardo Indraccolo</a> and <a href=https://sites.google.com/site/coopereconomics/home "newtab">Russell Cooper</a>) <br>
 <small>
