@@ -54,7 +54,7 @@ weight = 70
 <ul><li><p> <span style="color:#37585c"><strong>Quantitative Easing and Sovereign Bond Supply</strong></span> <br>
 (with <a href=https://sites.google.com/site/corradinste/ "newtab">Stefano Corradin</a>)</p></li></ul>
 
-<ul><li><p><strong> Monetary Policy, Procurement, and Firm Investment </strong> <br>
+<ul><li><p><strong> Monetary Policy, Public Procurement, and Firm Investment </strong> <br>
 
 <br>
  <hr style="width:100%;text-align:left;margin-left:0">
