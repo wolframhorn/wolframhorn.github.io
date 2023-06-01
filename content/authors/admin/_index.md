@@ -74,10 +74,10 @@ email: "carl-wolfram.horn@eui.eu"
 highlight_name: false
 ---
 
-<span style="color:#37585c;font-size:1.1em">**Hi, I am Wolfram. Welcome to my homepage!**</span>
-<p>I am a Ph.D. Candidate in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy. My supervisors are Ramon Marimon and Russell Cooper. During my PhD I have worked as a trainee and research analyst in the Research Division of the European Central Bank.
+<span style="color:#37585c;font-size:1.1em">**Hi, I am Carl-Wolfram. Welcome to my homepage!**</span>
+<p>I am a Ph.D. Candidate in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy. My supervisors are Ramon Marimon and Russell Cooper. During my PhD I have worked as a trainee and research analyst in the Research Division of the European Central Bank.</p>
 
-My research interests include in monetary and fiscal policy, macro finance, and firm heterogeneity. </p>
+</p>My research interests include in monetary and fiscal policy, macro finance, and firm heterogeneity. </p>
 <a class="bg-rollover paper-button download-button" 
    href="/media/CV_WolframHorn.pdf", 
    download="CV_WolframHorn.pdf">
