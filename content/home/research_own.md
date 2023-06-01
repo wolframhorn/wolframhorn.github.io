@@ -39,6 +39,7 @@ weight = 70
 </small></li></ul>
 <ul><li> <i class="far fa-file-alt"></i> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4359120"> <strong> Covid and Productivity in Europe: A Responsiveness Perspective </strong> </a> <br>
 (with <a href=https://leonardoindraccolo.netlify.app/ "newtab">Leonardo Indraccolo</a> and <a href=https://sites.google.com/site/coopereconomics/home "newtab">Russell Cooper</a>) <br>
+*R&R European Economic Review* <br>
 <small>
 <a rel="noopener"
    target="_blank"
@@ -54,7 +55,7 @@ weight = 70
 <ul><li><p> <span style="color:#37585c"><strong>Quantitative Easing and Sovereign Bond Supply</strong></span> <br>
 (with <a href=https://sites.google.com/site/corradinste/ "newtab">Stefano Corradin</a>)</p></li></ul>
 
-<ul><li><p><strong> Monetary Policy, Public Procurement, and Firm Investment </strong> <br>
+<ul><li><p> <span style="color:#37585c"><strong>Monetary Policy, Public Procurement, and Firm Investment</strong></span> <br>
 
 <br>
  <hr style="width:100%;text-align:left;margin-left:0">
