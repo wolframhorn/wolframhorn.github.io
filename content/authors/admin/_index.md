@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wolfram Horn
+title: Carl-Wolfram Horn
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,11 +17,11 @@ role: PhD Candidate in Economics
 bio: 
 
 # Interests to show in About widget
-interests:
-- International Macroeconomics
-- Macro-Finance
-- Monetary Economics
-- Firm Dynamics
+#interests:
+#- International Macroeconomics
+#- Macro-Finance
+#- Monetary Economics
+#- Firm Dynamics
 
 # Education to show in About widget
 education:
@@ -29,6 +29,9 @@ education:
   - course: PhD in Economics
     institution: European University Institute
     year: Current
+  - course: ASP Program in International Economic Policy Research
+    institution: Kiel Institute for the World Economy
+    year: 2017
   - course: MSc in Economics
     institution: University of Frankfurt
     year: 2016
@@ -72,7 +75,9 @@ highlight_name: false
 ---
 
 <span style="color:#37585c;font-size:1.1em">**Hi, I am Wolfram. Welcome to my homepage!**</span>
-<p>I am a Ph.D. Candidate in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy. My supervisors are Ramon Marimon and Russell Cooper.</p>
+<p>I am a Ph.D. Candidate in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy. My supervisors are Ramon Marimon and Russell Cooper. During my PhD I have worked as a trainee and research analyst in the Research Division of the European Central Bank.
+
+My research interests include in monetary and fiscal policy, macro finance, and firm heterogeneity. </p>
 <a class="bg-rollover paper-button download-button" 
    href="/media/CV_WolframHorn.pdf", 
    download="CV_WolframHorn.pdf">

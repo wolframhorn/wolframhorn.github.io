@@ -53,6 +53,9 @@ weight = 70
 <h3> <span style="font-size:1em">Work in Progress</span> </h3>
 <ul><li><p> <span style="color:#37585c"><strong>Quantitative Easing and Sovereign Bond Supply</strong></span> <br>
 (with <a href=https://sites.google.com/site/corradinste/ "newtab">Stefano Corradin</a>)</p></li></ul>
+
+<ul><li><p><strong> Monetary Policy, Public Procurement, and Firm Investment </strong> <br>
+
 <br>
  <hr style="width:100%;text-align:left;margin-left:0">
 
