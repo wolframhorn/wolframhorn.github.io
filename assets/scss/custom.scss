@@ -16,8 +16,10 @@ $main-color-highlight-turqdark: #156760;
 $main-color-highlight-metropolis_orig: #23373B;
 $main-color-highlight-orangemetropolis: #EB811B;
 $main-color-highlight-metropolis: #37585c;
+$main-color-highlight-jambro: #07285B;
+$mani-color-highlight-carandache: #DAA520; 
 
-$main-color: $main-color-highlight-metropolis;
+$main-color: $main-color-highlight-jambro;
 
 html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -102,5 +104,5 @@ a {
 
 a:hover {
   transition: color .5s ease;
-  color: $main-color-highlight-orangemetropolis;
+  color: $mani-color-highlight-carandache;
 }

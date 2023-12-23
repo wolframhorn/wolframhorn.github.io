@@ -75,7 +75,7 @@ highlight_name: false
 ---
 
 <span style="color:#37585c;font-size:1.1em">**Hi, I am Carl-Wolfram. Welcome to my homepage!**</span>
-<p>I am a Postdoctoral Researcher at the Centre for Central Banking at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I will complete my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy, in 2024. My supervisors are Ramon Marimon and Russell Cooper. During my PhD I have worked as a trainee in the Monetary Policy Outlook Division of the Bank of England and as a trainee and research analyst in the Research Division of the European Central Bank.</p>
+<p>I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I will complete my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy, in 2024. My supervisors are Ramon Marimon and Russell Cooper. During my PhD I have worked as a trainee in the Monetary Policy Outlook Division of the Bank of England and as a trainee and research analyst in the Research Division of the European Central Bank.</p>
 
 </p>My research interests include in monetary and fiscal policy, macro finance, and firm heterogeneity. </p>
 <a class="bg-rollover paper-button download-button" 
