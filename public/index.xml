@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carl-Wolfram Horn</title>
-    <link>https://wolframhorn.github.io/</link>
-      <atom:link href="https://wolframhorn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://carlwolframhorn.github.io/</link>
+      <atom:link href="https://carlwolframhorn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Carl-Wolfram Horn</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://wolframhorn.github.io/media/icon_hu8a73422b04ea72f695b0c93be2132dbc_138495_512x512_fill_lanczos_center_3.png</url>
+      <url>https://carlwolframhorn.github.io/media/icon_hu8a73422b04ea72f695b0c93be2132dbc_138495_512x512_fill_lanczos_center_3.png</url>
       <title>Carl-Wolfram Horn</title>
-      <link>https://wolframhorn.github.io/</link>
+      <link>https://carlwolframhorn.github.io/</link>
     </image>
     
   </channel>
