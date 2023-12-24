@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://carlwolframhorn.github.io/sitemap.xml
+Sitemap: https://wolframhorn.github.io/sitemap.xml
