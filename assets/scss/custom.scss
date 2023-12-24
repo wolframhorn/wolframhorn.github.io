@@ -17,7 +17,7 @@ $main-color-highlight-metropolis_orig: #23373B;
 $main-color-highlight-orangemetropolis: #EB811B;
 $main-color-highlight-metropolis: #37585c;
 $main-color-highlight-jambro: #07285B;
-$mani-color-highlight-carandache: #DAA520; 
+$main-color-highlight-carandache: #DAA520; 
 
 $main-color: $main-color-highlight-jambro;
 
@@ -34,7 +34,8 @@ a {
 }
 
 .nav-link.active {
-  color: $main-color;
+  /*color: $main-color;*/
+  color: $main-color-highlight-carandache !important;
 }
 
 /*<p class="paper-button bg-rollover"></p>*/
@@ -104,5 +105,27 @@ a {
 
 a:hover {
   transition: color .5s ease;
-  color: $mani-color-highlight-carandache;
+  color: $main-color-highlight-carandache;
+}
+
+.navbar .navbar-nav .nav-link.active {
+  color: $main-color-highlight-carandache !important;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: $main-color-highlight-carandache !important;
+  transition: color 0.5s ease;
+}
+
+.navbar {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: 0.96rem !important;
+}
+
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.8rem;
 }

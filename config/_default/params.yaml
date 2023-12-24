@@ -9,7 +9,7 @@ appearance:
   theme_day: custom
   #theme_night: custom
   font: Segoe UI Light
-  font_size: M
+  font_size: S
 
 # SEO
 

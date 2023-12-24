@@ -7212,7 +7212,7 @@ a.text-dark:hover, a.text-dark:focus {
  **************************************************/
 html {
   font-family: "Roboto", sans-serif;
-  font-size: 13.86px;
+  font-size: 12.32px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
   scroll-padding-top: 70px; }
@@ -7221,7 +7221,7 @@ html {
       scroll-padding-top: 50px; } }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 18px; } }
+    font-size: 16px; } }
 
 body {
   font-family: inherit;
@@ -8122,7 +8122,7 @@ a.summary-link {
   height: 70px;
   background: #fff;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-  font-size: 13.86px;
+  font-size: 12.32px;
   padding: 0 1rem; }
   .navbar .nav-item {
     position: relative; }
@@ -8146,7 +8146,7 @@ a.summary-link {
         font-weight: bold !important;
         color: #EB811B !important; }
   .navbar .dropdown-menu {
-    font-size: 13.86px; }
+    font-size: 12.32px; }
   .navbar .dropdown-item.active,
   .navbar .dropdown-item-active {
     font-weight: bold;
@@ -9587,13 +9587,14 @@ html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
 
 a {
-  color: #37585c; }
+  color: #07285B; }
 
 .navbar-light .navbar-brand {
-  color: #37585c; }
+  color: #07285B; }
 
 .nav-link.active {
-  color: #37585c; }
+  /*color: $main-color;*/
+  color: #DAA520 !important; }
 
 /*<p class="paper-button bg-rollover"></p>*/
 /*
@@ -9629,7 +9630,7 @@ a {
   width: 4.3em;
   height: 2em;
   line-height: 1.9em;
-  border: 1px solid #37585c;
+  border: 1px solid #07285B;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-right: 0.3em; }
@@ -9639,13 +9640,13 @@ a {
   background-color: white; }
 
 .bg-rollover:hover {
-  background-color: #37585c !important;
+  background-color: #07285B !important;
   color: #ffffff !important;
   text-decoration: none;
   transition: background-color 0.5s ease, color 0.5s ease; }
 
 .header--fixed {
-  border-top: 0.2em solid #37585c; }
+  border-top: 0.2em solid #07285B; }
 
 .home-section {
   min-height: calc(100vh - 70px); }
@@ -9656,4 +9657,20 @@ a {
 
 a:hover {
   transition: color .5s ease;
-  color: #EB811B; }
+  color: #DAA520; }
+
+.navbar .navbar-nav .nav-link.active {
+  color: #DAA520 !important; }
+
+.navbar-light .navbar-brand:hover {
+  color: #DAA520 !important;
+  transition: color 0.5s ease; }
+
+.navbar {
+  font-size: 0.9rem; }
+
+ul.ul-edu li .description p.course {
+  font-size: 0.96rem !important; }
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.8rem; }
