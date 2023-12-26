@@ -9647,7 +9647,7 @@ a {
 
 .header--fixed {
   border-top: 0.2em solid #07285B;
-  border-bottom: 0.2em solid #07285B; }
+  border-bottom: 0.1em solid #07285B; }
 
 .home-section {
   min-height: calc(100vh - 70px); }
