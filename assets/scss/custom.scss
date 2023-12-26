@@ -90,9 +90,9 @@ a {
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
-.header--fixed {
-  border-top: .2em solid $main-color-highlight-jambro;
-  border-bottom: .0.2em solid $main-color-highlight-jambro;
+.page-header .header--fixed {
+  border-top: 0.1em solid $main-color-highlight-jambro;
+  border-bottom: 0.1em solid $main-color-highlight-jambro;
 }
 
 .home-section {
