@@ -91,7 +91,8 @@ a {
 }
 
 .header--fixed {
-  border-top: .2em solid $main-color;
+  border-top: .2em solid $main-color-highlight-jambro;
+  border-bottom: .2em solid $main-color-highlight-jambro;
 }
 
 .home-section {

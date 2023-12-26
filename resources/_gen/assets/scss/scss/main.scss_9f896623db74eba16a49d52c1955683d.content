@@ -9646,7 +9646,8 @@ a {
   transition: background-color 0.5s ease, color 0.5s ease; }
 
 .header--fixed {
-  border-top: 0.2em solid #07285B; }
+  border-top: 0.2em solid #07285B;
+  border-bottom: 0.2em solid #07285B; }
 
 .home-section {
   min-height: calc(100vh - 70px); }
