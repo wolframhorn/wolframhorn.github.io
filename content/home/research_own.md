@@ -56,7 +56,6 @@ weight = 70
 
 <ul><li><p> <span style="color:#07285B"><strong>Monetary Policy and Public Procurement</strong></span> <br> </p></li></ul>
 
-<br>
  <hr style="width:100%;text-align:left;margin-left:0">
 
 <h3> <span style="font-size:1em">Other Articles</span> </h3>
