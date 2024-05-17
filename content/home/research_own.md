@@ -35,7 +35,6 @@ weight = 70
 <span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
 </a></small></li></ul>
 
-<br>
 <hr style="width:100%;text-align:left;margin-left:0">
 
 <h3> <span style="font-size:1em">Working Papers:</span> </h3>
@@ -47,9 +46,9 @@ weight = 70
    class="bg-rollover paper-button"
    href="/media/papers/MPMA_FischerHorn.pdf">
 <span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
-</a>
-<br>
- <hr style="width:100%;text-align:left;margin-left:0">
+</a></li></ul>
+
+<hr style="width:100%;text-align:left;margin-left:0">
 
 <h3> <span style="font-size:1em">Work in Progress</span> </h3>
 <ul><li><p> <span style="color:#07285B"><strong>Quantitative Easing and Sovereign Bond Supply</strong></span> <br>
