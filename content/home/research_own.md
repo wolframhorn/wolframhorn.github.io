@@ -46,7 +46,7 @@ weight = 70
    class="bg-rollover paper-button"
    href="/media/papers/MPMA_FischerHorn.pdf">
 <span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
-</a></li></ul>
+</a></small></li></ul>
 
 <hr style="width:100%;text-align:left;margin-left:0">
 
