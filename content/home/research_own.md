@@ -58,7 +58,7 @@ weight = 70
 
 <ul><li><p> <span style="color:#07285B"><strong>Monetary Policy and Public Procurement</strong></span> <br> </p></li></ul>
 
-<ul><li><p> <span style="color:#07285B"><strong>The Short-Term Effects of Monetary Policy: Evidence from the UK </strong></span> <br> </p></li></ul>
+<ul><li><p> <span style="color:#07285B"><strong>The Short-Term Effects of Monetary Policy: Evidence from the UK </strong></span> <br> (with Lennard Brandt, <a href=https://sites.google.com/view/johannesjfischer/home "newtab">Johannes Fischer</a> and <a href=https://www.filippopallotti.com "newtab">Filippo Pallotti</a>)</p></li></ul>
 
  <hr style="width:100%;text-align:left;margin-left:0">
 

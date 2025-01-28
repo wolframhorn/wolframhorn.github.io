@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: c.horn@fs.de
+  email: carlwolfram.horn@gmail.com
   #phone: +49 173 623 6544
   address:
     street: Adickesallee 32-34

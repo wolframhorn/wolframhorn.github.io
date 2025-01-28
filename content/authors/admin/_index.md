@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:carl-wolfram.horn@eui.eu
+  link: mailto:carlwolfram.horn@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/whorn0
@@ -68,7 +68,7 @@ social:
 #   link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "carl-wolfram.horn@eui.eu"
+email: "carlwolfram.horn@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -81,8 +81,8 @@ I have previously worked as a trainee in the Monetary Policy Outlook Division of
 
 </p>My research interests include in monetary and fiscal policy, macro finance, and firm heterogeneity. </p>
 <a class="bg-rollover paper-button download-button" 
-   href="/media/CV_Carl-Wolfram Horn_Jan2025.pdf", 
-   download="CV_Carl-Wolfram Horn_Jan2025.pdf">
+   href="/media/CV_Carl-Wolfram Horn.pdf", 
+   download="CV_Carl-Wolfram Horn.pdf">
   <span style="mso-text-raise: 10pt;">
     <i class="fa fa-download" aria-hidden="true"></i> Download CV
   </span>
