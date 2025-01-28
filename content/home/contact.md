@@ -28,6 +28,7 @@ content:
   email: carlwolfram.horn@gmail.com
   #phone: +49 173 623 6544
   address:
+    company: Frankfurt School of Finance & Management 
     street: Adickesallee 32-34
     city: Frankfurt am Main
     postcode: '60322'
