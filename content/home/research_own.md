@@ -51,10 +51,14 @@ weight = 70
 <hr style="width:100%;text-align:left;margin-left:0">
 
 <h3> <span style="font-size:1em">Work in Progress</span> </h3>
-<ul><li><p> <span style="color:#07285B"><strong>Quantitative Easing and Sovereign Bond Supply</strong></span> <br>
+<ul><li><p> <span style="color:#07285B"><strong>QE (or QT) with Active Bond Supply: Evidence from German Sovereign Debt Auctions</strong></span> <br>
 (with <a href=https://sites.google.com/site/corradinste/ "newtab">Stefano Corradin</a>)</p></li></ul>
 
+<ul><li><p> <span style="color:#07285B"><strong>Financial Market Fragmentation and Monetary Policy in the Euro Area </strong></span> <br> </p></li></ul>
+
 <ul><li><p> <span style="color:#07285B"><strong>Monetary Policy and Public Procurement</strong></span> <br> </p></li></ul>
+
+<ul><li><p> <span style="color:#07285B"><strong>The Short-Term Effects of Monetary Policy: Evidence from the UK </strong></span> <br> </p></li></ul>
 
  <hr style="width:100%;text-align:left;margin-left:0">
 

@@ -25,15 +25,14 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: carl-wolfram.horn@eui.eu
+  email: c.horn@fs.de
   #phone: +49 173 623 6544
   address:
-    street: Via delle Fontanelle 18
-    city: San Domenico di Fiesole, FI
-    region: FI
-    postcode: '50014'
-    country: Italy
-    country_code: IT
+    street: Adickesallee 32-34
+    city: Frankfurt am Main
+    postcode: '60322'
+    country: Germany
+    country_code: DE
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
