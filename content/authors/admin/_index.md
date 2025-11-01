@@ -17,11 +17,10 @@ superuser: true
 bio: 
 
 # Interests to show in About widget
-#interests:
-#- International Macroeconomics
-#- Macro-Finance
-#- Monetary Economics
-#- Firm Dynamics
+interests:
+- Monetary and Fiscal Policy
+- Macro-Finance
+- Firm Dynamics
 
 # Education to show in About widget
 education:
