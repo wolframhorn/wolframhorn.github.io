@@ -19,12 +19,12 @@ height: 100%
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
-design:
-  background:
-    image: FrankfurtSkyline5.png #PicFlorence13.jpg
-    image_size: contain #cover #fill, contain, none, scale-down
-    image_parallax: false #true #false
-    image_position: bottom #top #bottom
+#design:
+#  background:
+#    image: FrankfurtSkyline5.png #PicFlorence13.jpg
+#    image_size: contain #cover #fill, contain, none, scale-down
+#    image_parallax: false #true #false
+#    image_position: bottom #top #bottom
 
 # Section design
 # design:
