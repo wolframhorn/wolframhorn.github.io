@@ -21,9 +21,9 @@ author: admin
 
 design:
   background:
-    image: FrankfurtSkyline2.png #PicFlorence13.jpg
+    image: FrankfurtSkyline3.png #PicFlorence13.jpg
     image_size: cover
-    image_parallax: false #true
+    image_parallax: true
     image_position: bottom #top
     
 
