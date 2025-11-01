@@ -81,8 +81,8 @@ I have previously worked as a trainee in the Monetary Policy Outlook Division of
 
 </p>My research interests include in monetary and fiscal policy, macro finance, and firm heterogeneity. </p>
 <a class="bg-rollover paper-button download-button" 
-   href="/media/CV_Carl-Wolfram Horn.pdf", 
-   download="CV_Carl-Wolfram Horn.pdf">
+   href="/media/CV_Carl-Wolfram Horn_Nov2025.pdf", 
+   download="CV_Carl-Wolfram Horn_Nov2025.pdf">
   <span style="mso-text-raise: 10pt;">
     <i class="fa fa-download" aria-hidden="true"></i> Download CV
   </span>
