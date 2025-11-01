@@ -29,7 +29,7 @@ education:
     institution: European University Institute
     year: 2024
   - course: ASP Program
-    institution: Kiel Institute for the World Economy
+    institution: Kiel Institute
     year: 2017
   - course: MSc in Economics
     institution: University of Frankfurt
