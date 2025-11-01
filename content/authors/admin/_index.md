@@ -29,7 +29,7 @@ education:
   - course: PhD in Economics
     institution: European University Institute
     year: 2024
-  - course: ASP Program in International Economic Policy Research
+  - course: ASP Program
     institution: Kiel Institute for the World Economy
     year: 2017
   - course: MSc in Economics
