@@ -23,7 +23,7 @@ design:
   background:
     image: FrankfurtSkyline2.png #PicFlorence13.jpg
     image_size: cover
-    image_parallax: true
+    image_parallax: false #true
     image_position: bottom #top
     
 
