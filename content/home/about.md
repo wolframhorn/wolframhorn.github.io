@@ -21,10 +21,10 @@ author: admin
 
 design:
   background:
-    image: PicFlorence13.jpg
+    image: FrankfurtSkyline2.png #PicFlorence13.jpg
     image_size: cover
     image_parallax: true
-    image_position: top
+    image_position: bottom #top
     
 
 # Section design
