@@ -78,7 +78,7 @@ highlight_name: false
 
 I have previously worked as a trainee in the Monetary Policy Outlook Division of the Bank of England and as a trainee and research analyst in the Research Division of the European Central Bank.</p>
 
-
+</p></p>
 <a class="bg-rollover paper-button download-button" 
    href="/media/CV_Carl-Wolfram Horn_Nov2025.pdf", 
    download="CV_Carl-Wolfram Horn_Nov2025.pdf">
