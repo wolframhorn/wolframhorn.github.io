@@ -20,12 +20,12 @@ content:
     provider: netlify
     formspree:
       id:
-    netlify:
+      netlify: "true"
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: carlwolfram.horn[at]gmail.com
+  email: carlwolfram.horn@gmail.com
   #phone: +49 173 623 6544
 
   address:
