@@ -76,7 +76,7 @@ highlight_name: false
 <!---
 <span style="color:#07285B;font-size:1.1em">**Hi, I am Carl-Wolfram. Welcome to my homepage!**</span>
 -->
-<p> <br> <br> I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I obtained my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy, in 2024. 
+<p> <br> <br> I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I obtained my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a> in 2024. 
 
 I have previously worked as a trainee in the Monetary Policy Outlook Division of the Bank of England and as a trainee and research analyst in the Research Division of the European Central Bank.</p>
 
