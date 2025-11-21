@@ -134,3 +134,11 @@ ul.ul-edu li .description p.course {
 ul.ul-edu li .description p.institution {
   font-size: 0.8rem;
 }
+
+.section-heading h1 {
+  margin: 0 0 10px 0;
+  position: sticky; 
+  position: -webkit-sticky; 
+  top: 150px;
+}
+

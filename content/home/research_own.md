@@ -150,7 +150,6 @@ weight = 70
 
 </style>
 
-
 <h3> <span style="font-size:1.2em">Publications</span> </h3>
 <ul class = "my-paper-list"> <i class="far fa-file-alt"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292123002830"> <strong> Covid and Productivity in Europe: A Responsiveness Perspective </strong> </a> 
 <br>
