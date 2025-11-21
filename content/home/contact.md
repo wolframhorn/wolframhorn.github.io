@@ -16,21 +16,21 @@ content:
   autolink: true
 
   # Email form provider
-  #form:
-  #  provider: netlify
-  #  formspree:
-  #    id:
-  #  netlify:
-  #    # Enable CAPTCHA challenge to reduce spam?
-  #    captcha: false
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: carlwolfram.horn@gmail.com
+  email: carlwolfram.horn[at]gmail.com
   #phone: +49 173 623 6544
+
   address:
-    company: Frankfurt School of Finance & Management 
-    street: Adickesallee 32-34
-    city: Frankfurt am Main
+    street: Frankfurt School Centre for Central Banking 
+    city: Adickesallee 32-34, 60322 Frankfurt am Main, Germany
     postcode: '60322'
     country: Germany
     country_code: DE

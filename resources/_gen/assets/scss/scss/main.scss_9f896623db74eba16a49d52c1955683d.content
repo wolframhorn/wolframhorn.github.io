@@ -9685,3 +9685,32 @@ ul.ul-edu li .description p.institution {
   position: sticky;
   position: -webkit-sticky;
   top: 150px; }
+
+/* Style the Send button */
+form button[type="submit"] {
+  width: auto !important;
+  display: inline-block;
+  padding: 0.4rem 1.2rem;
+  background: none;
+  /* no background */
+  border: 1px solid #07285B;
+  /* blue border */
+  color: #07285B;
+  /* blue text */
+  border-radius: 4px;
+  /* optional — adjust to your taste */
+  cursor: pointer;
+  transition: all 0.5s ease; }
+
+/* Hover effect: fill button with blue */
+form button[type="submit"]:hover {
+  background: #07285B;
+  color: white;
+  /* invert text color */ }
+
+.wg-about .background-img {
+  position: absolute;
+  bottom: 0px; }
+  @media screen and (min-width: 768px) {
+    .wg-about .background-img {
+      bottom: 70px; } }

@@ -21,10 +21,12 @@ author: admin
 
 #design:
 #  background:
-#    image: FrankfurtSkyline5.png #PicFlorence13.jpg
+#    image: FrankfurtSkyline6.png #PicFlorence13.jpg
 #    image_size: contain #cover #fill, contain, none, scale-down
 #    image_parallax: false #true #false
 #    image_position: bottom #top #bottom
+#    image_width: 1350px 
+#    imagine_heigh: 144px
 
 # Section design
 # design:
