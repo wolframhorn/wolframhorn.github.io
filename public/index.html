@@ -104,6 +104,8 @@
       
         
       
+        
+      
     
     
     
@@ -563,6 +565,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#policy_own" data-target="#policy_own"><span>Policy Contributions</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
           </li>
 
@@ -843,8 +882,10 @@
     
 
     <div class="article-style">
-      <p><span style="color:#07285B;font-size:1.1em"><strong>Hi, I am Carl-Wolfram. Welcome to my homepage!</strong></span></p>
-<p>I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I obtained my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy, in 2024. 
+      <!---
+<span style="color:#07285B;font-size:1.1em">**Hi, I am Carl-Wolfram. Welcome to my homepage!**</span>
+-->
+<p> <br> <br> I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I obtained my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy, in 2024. 
 <p>I have previously worked as a trainee in the Monetary Policy Outlook Division of the Bank of England and as a trainee and research analyst in the Research Division of the European Central Bank.</p></p>
 </p></p>
 <a class="bg-rollover paper-button download-button" 
@@ -1002,9 +1043,61 @@
 
 
   <div class="col-12 col-lg-8">
-    <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css>
+    <!---
+<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css>
+-->
+<style>
+   .my-paper-list {
+   list-style: none;
+   padding-left: 0;
+   }
+
+   /* remove bullets and default spacing */
+   .work-in-progress {
+   padding-left: 40px;
+   }
+
+   .wip-item {
+   margin-bottom: 0.75rem;
+   }
+
+   /* clickable title line    list-style: none; */
+   .wip-item summary {
+   cursor: pointer;
+   font-size: 1em;
+   color: #07285B;
+   }
+
+   /* hide default marker (Safari/Chrome) */
+   .wip-item summary::-webkit-details-marker {
+   display: none;
+   }
+
+   /* triangle closed    content: "▶";*/
+   .wip-item summary::before {
+   width: 0.66em; 
+   height: 0.66em;
+   display: inline-block;
+   margin-right: 0.4em;
+   transition: transform 0.2s ease;
+   }
+
+   /* triangle open    content: "▼";*/
+   .wip-item[open] summary::before {
+   width: 0.66em; 
+   height: 0.66em;
+   margin-right: 0.4em;
+   }
+
+   /* abstract styling */
+   .wip-abstract {
+   margin: 0.4rem 1.2rem;
+   font-size: -0.5;
+   }
+
+</style> 
 <h3> <span style="font-size:1em">Published Papers:</span> </h3>
-<ul><li> <i class="far fa-file-alt"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292123002830"> <strong> Covid and Productivity in Europe: A Responsiveness Perspective </strong> </a> <br>
+<ul class = "my-paper-list"> <i class="far fa-file-alt"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292123002830"> <strong> Covid and Productivity in Europe: A Responsiveness Perspective </strong> </a> <br>
 (with <a href=https://leonardoindraccolo.netlify.app/ "newtab">Leonardo Indraccolo</a> and <a href=https://sites.google.com/site/coopereconomics/home "newtab">Russell Cooper</a>) <br>
 <i>European Economic Review Vol. 163, Apr. 2024</i> <br>
 <small>
@@ -1013,8 +1106,8 @@
    class="bg-rollover paper-button"
    href="https://www.sciencedirect.com/science/article/abs/pii/S0014292123002830">
 <span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
-</a></small></li></ul>
-<ul><li> <i class="far fa-file-alt"></i> <a href="https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194"> <strong> Stock market dynamics and the relative importance of domestic, foreign, and common shocks </strong> </a> <br>
+</a></small></ul>
+<ul class = "my-paper-list"> <i class="far fa-file-alt"></i> <a href="https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194"> <strong> Stock market dynamics and the relative importance of domestic, foreign, and common shocks </strong> </a> <br>
 (with Martin Ademmer and <a href=https://sites.google.com/view/josefinequast/home "newtab">Josefine Quast</a>) <br>
 <i>International Journal of Finance and Economics, Nov. 2020</i> <br>
 <small>
@@ -1023,10 +1116,10 @@
    class="bg-rollover paper-button"
    href="https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2194">
 <span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
-</a></small></li></ul>
+</a></small></ul>
 <hr style="width:100%;text-align:left;margin-left:0">
 <h3> <span style="font-size:1em">Working Papers:</span> </h3>
-<ul><li> <i class="far fa-file-alt"></i> <a href="/media/papers/MPMA_FischerHorn.pdf"> <strong> Monetary Policy and Mergers and Acquisitions </strong> </a> <br>
+<ul class = "my-paper-list"> <i class="far fa-file-alt"></i> <a href="/media/papers/MPMA_FischerHorn.pdf"> <strong> Monetary Policy and Mergers and Acquisitions </strong> </a> <br>
 (with <a href=https://sites.google.com/view/johannesjfischer "newtab">Johannes Fischer</a>) <br>
 <i> R&R Journal of Corporate Finance</i> <br>
 <small>
@@ -1035,17 +1128,167 @@
    class="bg-rollover paper-button"
    href="/media/papers/MPMA_FischerHorn.pdf">
 <span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
-</a></small></li></ul>
+</a></small></ul>
 <hr style="width:100%;text-align:left;margin-left:0">
 <h3> <span style="font-size:1em">Work in Progress</span> </h3>
 <ul><li><p> <span style="color:#07285B"><strong>Back to Normal in the Euro Area: Convenience Yields and Short-Sales Costs</strong></span> <br>
 (with <a href=https://sites.google.com/site/corradinste/ "newtab">Stefano Corradin</a>)</p></li></ul>
 <ul><li><p> <span style="color:#07285B"><strong>Financial Market Fragmentation and Monetary Policy in the Euro Area </strong></span> <br> 
 (with <a href=https://www.emanuelmoench.com "newtab">Emanuel Moench</a>)</p></li></ul>
+<details class="wip-item">
+  <summary>
+    <span class="wip-title"><strong>Monetary Policy and Public Procurement</strong></span>
+  </summary>
+  <p class="wip-abstract">
+    Your abstract here.
+  </p>
+</details>
 <ul><li><p> <span style="color:#07285B"><strong>Monetary Policy and Public Procurement</strong></span> <br> </p></li></ul>
 <ul><li><p> <span style="color:#07285B"><strong>The Short-Term Effects of Monetary Policy: Evidence from the UK </strong></span> <br> (with Lennart Brandt, <a href=https://sites.google.com/view/johannesjfischer/home "newtab">Johannes Fischer,</a> <a href=https://silviamirandaagrippino.com "newtab">Silvia Miranda-Agrippino,</a> and <a href=https://www.filippopallotti.com "newtab">Filippo Pallotti</a>)</p></li></ul>
- <hr style="width:100%;text-align:left;margin-left:0">
+<!---
+<hr style="width:100%;text-align:left;margin-left:0">
+
 <h3> <span style="font-size:1em">Other Articles</span> </h3>
+<ul><li><p> <a href="https://cepr.org/voxeu/columns/early-view-euro-area-risk-sharing-during-covid-19-crisis"> <strong>Wait and Watch: Steering Monetary Policy Under Balanced Inflation Risks</strong> </a> <br>
+(with  <a href=https://www.benjaminborn.de "newtab">Benjamin Born,</a> <a href=https://www.emanuelmoench.com "newtab">Emanuel Moench,</a> and <a href=https://www.utsopm.com "newtab">Utso Pal Mustafi</a>) <br>
+<i> Study Requested by the European Parliament's ECON Committee Monetary Policy Dialogue Papers, September 2025 </i> <br>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover paper-button"
+   href="https://www.europarl.europa.eu/thinktank/en/document/ECTI_STU(2025)764368">
+<span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
+</a></small></p></li></ul>
+
+<ul><li><p> <a href="https://cepr.org/voxeu/columns/early-view-euro-area-risk-sharing-during-covid-19-crisis"> <strong>An Early View at Risk-Sharing During the COVID-19 Crisis</strong> </a> <br>
+(with  Alessandro Giovannini and Francesco Mongelli) <br>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover paper-button"
+   href="https://cepr.org/voxeu/columns/early-view-euro-area-risk-sharing-during-covid-19-crisis">
+<span style="mso-text-raise: 10pt;">&nbsp VoxEU &nbsp </span>
+</a></small></p></li></ul>
+
+<ul><li><p> <a href="https://www.ecb.europa.eu/pub/economic-bulletin/articles/2020/html/ecb.ebart202007_02~b27e8089c5.en.html"> <strong>European Financial Integration During the COVID-19 Crisis</strong> </a> <br>
+(with  Stefano Borgioli, Urszula Kochanska, Philippe Molitor, and Francesco Mongelli) <br>
+<i> ECB Economic Bulletin, Issue 7, November 2020 </i> <br>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover paper-button"
+   href="https://www.ecb.europa.eu/pub/economic-bulletin/articles/2020/html/ecb.ebart202007_02~b27e8089c5.en.html">
+<span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
+</a></small>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover paper-button"
+   href="https://cepr.org/voxeu/columns/european-financial-integration-during-covid-19-crisis-insights-new-indicator">
+<span style="mso-text-raise: 10pt;">&nbsp VoxEU &nbsp </span>
+</a></small></p></li></ul>
+
+<ul><li><p> <a href="https://www.ecb.europa.eu/pub/fie/html/ecb.fie202003~197074785e.en.html#toc26"> <strong>On the Measurement of Risk-Sharing in the Euro Area</strong> </a> <br>
+(with Alessandro Giovannini, Francesco Mongelli, and Alexander Popov) <br>
+<i> In: ECB Report Financial Integration and Structure in Euro Area, March 2020 </i> <br>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover paper-button"
+   href="https://www.ecb.europa.eu/pub/fie/html/ecb.fie202003~197074785e.en.html#toc26">
+<span style="mso-text-raise: 10pt;">&nbsp Link &nbsp </span>
+</a></small>
+</p></li></ul>
+
+-->
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="policy_own" class="home-section wg-blank  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Policy Contributions</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12 col-lg-8">
+    <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css>
 <ul><li><p> <a href="https://cepr.org/voxeu/columns/early-view-euro-area-risk-sharing-during-covid-19-crisis"> <strong>Wait and Watch: Steering Monetary Policy Under Balanced Inflation Risks</strong> </a> <br>
 (with  <a href=https://www.benjaminborn.de "newtab">Benjamin Born,</a> <a href=https://www.emanuelmoench.com "newtab">Emanuel Moench,</a> and <a href=https://www.utsopm.com "newtab">Utso Pal Mustafi</a>) <br>
 <i> Study Requested by the European Parliament's ECON Committee Monetary Policy Dialogue Papers, September 2025 </i> <br>

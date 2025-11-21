@@ -9616,9 +9616,13 @@ a {
   margin-bottom: 1em;
   margin-right: 0.3em;
 }
+$background-lightgray
+  width: 4.3em; 
+  height: 2em;
+    line-height: 1.9em;
 */
 .paper-button {
-  background-color: #f7f7f7;
+  background-color: none;
   font-size: small;
   text-decoration: none;
   text-align: center;
@@ -9636,8 +9640,8 @@ a {
   margin-right: 0.3em; }
 
 .download-button {
-  width: 9.5em;
-  background-color: white; }
+  background-color: none;
+  width: 9.5em; }
 
 .bg-rollover:hover {
   background-color: #07285B !important;

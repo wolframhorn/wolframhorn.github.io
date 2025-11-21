@@ -18,8 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
+- Applied Macroeconomics
 - Monetary and Fiscal Policy
-- Macro-Finance
+- Financial Markets
 - Firm Dynamics
 
 # Education to show in About widget
@@ -72,16 +73,17 @@ email: "carlwolfram.horn@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
+<!---
 <span style="color:#07285B;font-size:1.1em">**Hi, I am Carl-Wolfram. Welcome to my homepage!**</span>
-<p>I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I obtained my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy, in 2024. 
+-->
+<p> <br> <br> I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I obtained my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a>, Florence, Italy, in 2024. 
 
 I have previously worked as a trainee in the Monetary Policy Outlook Division of the Bank of England and as a trainee and research analyst in the Research Division of the European Central Bank.</p>
 
 </p></p>
 <a class="bg-rollover paper-button download-button" 
-   href="/media/CV_Carl-Wolfram Horn_Nov2025.pdf", 
-   download="CV_Carl-Wolfram Horn_Nov2025.pdf">
+   href="/media/CV_Carl-Wolfram Horn.pdf", 
+   download="CV_Carl-Wolfram Horn.pdf">
   <span style="mso-text-raise: 10pt;">
     <i class="fa fa-download" aria-hidden="true"></i> Download CV
   </span>
