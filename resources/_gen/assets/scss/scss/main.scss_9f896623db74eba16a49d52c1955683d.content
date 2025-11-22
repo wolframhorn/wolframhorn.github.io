@@ -9707,10 +9707,3 @@ form button[type="submit"]:hover {
   background: #07285B;
   color: white;
   /* invert text color */ }
-
-.wg-about .background-img {
-  position: absolute;
-  bottom: 0px; }
-  @media screen and (min-width: 768px) {
-    .wg-about .background-img {
-      bottom: 70px; } }

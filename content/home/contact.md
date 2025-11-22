@@ -12,17 +12,16 @@ title: Contact
 subtitle:
 
 content:
-  # Automatically link email and phone or display as text?
+#  # Automatically link email and phone or display as text?
   autolink: true
 
   # Email form provider
-  #form:
-  #  provider: netlify
-  #  formspree:
-  #    id:
-  #    netlify: "true"
-  #    # Enable CAPTCHA challenge to reduce spam?
-  #    captcha: false
+  form:
+    provider: formspree
+    formspree: 
+      id: mwpzolzb
+     #netlify: 
+      #captcha: false
 
   # Contact details (edit or remove options as required)
   email: carlwolfram.horn[at]gmail.com
