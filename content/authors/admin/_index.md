@@ -6,12 +6,12 @@ title: Carl-Wolfram Horn
 superuser: true
 
 # Role/position/tagline
-#role: PhD Candidate in Economics
+role: Postdoctoral Reseacher in Economics
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-# - name: European University Institute
-#   # url: https://www.eui.eu/en/academic-units/department-of-economics
+organizations:
+  - name: "Centre for Central Banking @ Frankfurt School"
+    url: "https://cfcb.frankfurt-school.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -77,6 +77,8 @@ highlight_name: false
 <span style="color:#07285B;font-size:1.1em">**Hi, I am Carl-Wolfram. Welcome to my homepage!**</span>
 -->
 <p> <br> <br> I am a Postdoctoral Researcher at the <a target="_blank" href="https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking">Centre for Central Banking</a> at the <a target="_blank" href="https://www.frankfurt-school.de/home">Frankfurt School of Finance and Management</a>. I obtained my Ph.D. in Economics at the <a target="_blank" href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute (EUI)</a> in 2024. 
+
+I am an applied macroeconomist. My research lies at the intersection of fiscal and monetary policy, financial markets, and firm heterogeneity, studying how macroeconomic shocks and policies affect financial markets and the real economy. 
 
 I have previously worked as a trainee in the Monetary Policy Outlook Division of the Bank of England and as a trainee and research analyst in the Research Division of the European Central Bank.</p>
 
