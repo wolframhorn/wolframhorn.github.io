@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Email form provider
-  form: 0
+  email_form: 0
   #  provider: ""
   #  formspree: 
   #    id: mwpzolzb
