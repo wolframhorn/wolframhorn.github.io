@@ -15,14 +15,6 @@ content:
 #  # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  email_form: 0
-  #  provider: ""
-  #  formspree: 
-  #    id: mwpzolzb
-     #netlify: 
-      #captcha: false
-
   # Contact details (edit or remove options as required)
   email: carlwolfram.horn[at]gmail.com
   #phone: +49 173 623 6544
