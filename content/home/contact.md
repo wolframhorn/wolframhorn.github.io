@@ -13,11 +13,11 @@ subtitle:
 
 content:
 #  # Automatically link email and phone or display as text?
-  #autolink: true
+  autolink: true
 
   # Email form provider
-  #form:
-  #  provider: formspree
+  form:
+    provider: ""
   #  formspree: 
   #    id: mwpzolzb
      #netlify: 
