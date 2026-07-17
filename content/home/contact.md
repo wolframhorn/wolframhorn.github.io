@@ -16,10 +16,10 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: formspree
-    formspree: 
-      id: mwpzolzb
+  #form:
+  #  provider: formspree
+  #  formspree: 
+  #    id: mwpzolzb
      #netlify: 
       #captcha: false
 
